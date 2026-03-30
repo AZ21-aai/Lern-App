@@ -31,3 +31,14 @@ Die vollständige Projektdokumentation sowie die Präsentation sind im Ordner `d
 
 ### Frontend starten:
 `cd frontend && npm install && npm start`
+
+## 📸 Screenshots
+
+### Startseite
+![Startseite](docs/startseite.png)
+
+### Quiz
+![Quiz](docs/quiz.png)
+
+### Ergebnis
+![Ergebnis](docs/ergebnis.png)
