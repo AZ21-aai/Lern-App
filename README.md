@@ -37,7 +37,7 @@ Die vollständige Projektdokumentation sowie die Präsentation sind im Ordner `d
 ### Startseite
 ![Startseite](docs/startseite.png)
 
-### Quiz
+## Quiz
 ![Quiz](docs/quiz.png)
 
 ### Ergebnis
